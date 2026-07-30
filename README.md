@@ -1,211 +1,165 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">AI/ML Engineer | MCA (AI & ML) | Building Intelligent AI Applications</h3>
+<h3 align="center">AI/ML Engineer | Machine Learning Enthusiast | Building Intelligent AI Solutions</h3>
 
 <p align="center">
-I enjoy building AI-powered applications using Machine Learning, Deep Learning, NLP, Computer Vision and Generative AI.
-Currently pursuing MCA (AI & ML) while developing real-world AI projects.
+  <img src="https://komarev.com/ghpvc/?username=shubham-singh9310&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 MCA (Artificial Intelligence & Machine Learning)
+- 🎓 MCA (Artificial Intelligence & Machine Learning)
+- 🤖 Passionate about AI, Machine Learning, Deep Learning & NLP
+- 🌱 Currently learning **Advanced Deep Learning, LLMs & Computer Vision**
+- 💡 Love building AI-powered applications that solve real-world problems
+- 👨‍💻 Open to AI/ML Internship Opportunities
+- 📫 Reach me at **shubham.singh93100@gmail.com**
 
-💻 AI/ML Engineer passionate about solving real-world problems with AI
+---
 
-🌱 Currently Learning
+## 🌐 Connect With Me
 
-- Generative AI
-- LangChain
-- Large Language Models (LLMs)
-- Deep Learning
-- Computer Vision
-- MLOps
+<p align="left">
+<a href="https://www.linkedin.com/in/shubham-singh38/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-📫 Email:
-**shubham.singh93100@gmail.com**
-
+<a href="https://shubham-portfolio-iota.vercel.app/" target="_blank">
 🌐 Portfolio
-https://shubham-portfolio-iota.vercel.app/
+</a>
 
-🔗 LinkedIn
-https://linkedin.com/in/shubham-singh38
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-## Programming
+### Programming Languages
 
-Python
-Java
-SQL
-JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,mysql" />
+</p>
 
-## AI / ML
+### Machine Learning & AI
 
-Machine Learning
-Deep Learning
-PyTorch
-TensorFlow
-Scikit-Learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
-OpenCV
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-## Generative AI
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- OpenCV
+- Hugging Face Transformers
+- spaCy
 
-LangChain
-Ollama
-LLMs
-Prompt Engineering
-RAG
-Groq API
+### Tools
 
-## Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-HTML
-CSS
-JavaScript
-React
-Node.js
-FastAPI
-Streamlit
-
-## Database
-
-MySQL
-MongoDB
-SQLite
-
-## Tools
-
-Git
-GitHub
-VS Code
-Google Colab
-Jupyter Notebook
-Canva
-Figma
+- Google Colab
+- Jupyter Notebook
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Text Summarizer
-
-• NLP based text summarization
-
-• Upload text
-
-• AI generated concise summary
-
-• Modern UI
-
-Tech:
-Python
-Transformers
-Flask
+### 🤖 AI Text Summarizer
+- NLP-based Text Summarization
+- Hugging Face Transformers
+- Python
+- Streamlit
+- Deep Learning
 
 ---
 
-## 🧠 CNN Image Classifier (CIFAR-10)
-
-Deep Learning model trained using CNN
-
-Achieved strong classification accuracy
-
-Tech:
-
-PyTorch
-
-CNN
-
-NumPy
-
-Matplotlib
+### 🧠 CNN for CIFAR-10 Image Classification
+- Deep Learning
+- TensorFlow
+- CNN Architecture
+- Image Classification
+- Data Augmentation
 
 ---
 
-## 📄 ATS Resume Analyzer
-
-✔ Resume Parsing
-
-✔ Skill Matching
-
-✔ ATS Score
-
-✔ AI Feedback
-
-Tech
-
-FastAPI
-
-Streamlit
-
-spaCy
-
-Sentence Transformers
-
-Groq
-
-Supabase
+### 📄 ATS Resume Scanner
+- Resume Parsing
+- Resume Scoring
+- Job Description Matching
+- NLP
+- FastAPI
+- Streamlit
 
 ---
 
-## 🤖 Multi-Agent AI Workflow
-
-AI Project Manager
-
-AI Coder
-
-AI Tester
-
-Built using LangChain + Ollama + DeepSeek
+### 📇 Contact Management System
+- Python
+- SQLite
+- CRUD Operations
+- File Handling
 
 ---
 
-## 📞 Contact Management System
-
-Python + SQLite based CRUD application
-
----
-
-## 🍽 Recipe Sharing Platform
-
-Responsive website built using
-
-HTML
-
-CSS
-
-JavaScript
+### 🍽️ Recipe Sharing Platform
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
 
 ---
 
-# 📈 Currently Exploring
+## 📚 Currently Learning
 
-✔ Agentic AI
-
-✔ RAG
-
-✔ LLM Fine-tuning
-
-✔ Computer Vision
-
-✔ MLOps
-
-✔ AI Deployment
+- Large Language Models (LLMs)
+- Generative AI
+- Transformers
+- Computer Vision
+- Advanced PyTorch
+- Deep Learning Architectures
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Certifications
 
-LinkedIn
+- Google AI/ML Certifications
+- NPTEL Python Programming
+- Machine Learning Projects
+- Deep Learning
+- Data Science
 
-Portfolio
+---
 
-Email
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham-singh9310&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-singh9310&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh9310&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building AI-powered Applications
+- 🌱 Learning Advanced AI & Deep Learning
+- 🤝 Looking for AI/ML Internship Opportunities
+- 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Computer Vision, TensorFlow & PyTorch
+
+---
+
+## ⚡ Fun Fact
+
+> *"Turning data into intelligent solutions—one model at a time."* 🚀
