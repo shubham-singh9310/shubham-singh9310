@@ -1,24 +1,211 @@
-<h1 align="center">Hi 👋, I'm Shubham singh</h1>
-<h3 align="center">A passionate AIML Engineer</h3>
+<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
+<h3 align="center">AI/ML Engineer | MCA (AI & ML) | Building Intelligent AI Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh9310&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-singh9310" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-singh9310" alt="shubham-singh9310" /></a> </p>
-
-- 📫 How to reach me **Shubham.singh93100@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tjf5kb84Frio9MPOc5qG8od4EQRwQ5QQ/view?usp=sharing](https://drive.google.com/file/d/1tjf5kb84Frio9MPOc5qG8od4EQRwQ5QQ/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-singh38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-singh38" height="30" width="40" /></a>
+<p align="center">
+I enjoy building AI-powered applications using Machine Learning, Deep Learning, NLP, Computer Vision and Generative AI.
+Currently pursuing MCA (AI & ML) while developing real-world AI projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh9310&show_icons=true&locale=en&layout=compact" alt="shubham-singh9310" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh9310&show_icons=true&locale=en" alt="shubham-singh9310" /></p>
+🎓 MCA (Artificial Intelligence & Machine Learning)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh9310&" alt="shubham-singh9310" /></p>
+💻 AI/ML Engineer passionate about solving real-world problems with AI
+
+🌱 Currently Learning
+
+- Generative AI
+- LangChain
+- Large Language Models (LLMs)
+- Deep Learning
+- Computer Vision
+- MLOps
+
+📫 Email:
+**shubham.singh93100@gmail.com**
+
+🌐 Portfolio
+https://shubham-portfolio-iota.vercel.app/
+
+🔗 LinkedIn
+https://linkedin.com/in/shubham-singh38
+
+---
+
+# 💻 Tech Stack
+
+## Programming
+
+Python
+Java
+SQL
+JavaScript
+
+## AI / ML
+
+Machine Learning
+Deep Learning
+PyTorch
+TensorFlow
+Scikit-Learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+OpenCV
+
+## Generative AI
+
+LangChain
+Ollama
+LLMs
+Prompt Engineering
+RAG
+Groq API
+
+## Web Development
+
+HTML
+CSS
+JavaScript
+React
+Node.js
+FastAPI
+Streamlit
+
+## Database
+
+MySQL
+MongoDB
+SQLite
+
+## Tools
+
+Git
+GitHub
+VS Code
+Google Colab
+Jupyter Notebook
+Canva
+Figma
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Text Summarizer
+
+• NLP based text summarization
+
+• Upload text
+
+• AI generated concise summary
+
+• Modern UI
+
+Tech:
+Python
+Transformers
+Flask
+
+---
+
+## 🧠 CNN Image Classifier (CIFAR-10)
+
+Deep Learning model trained using CNN
+
+Achieved strong classification accuracy
+
+Tech:
+
+PyTorch
+
+CNN
+
+NumPy
+
+Matplotlib
+
+---
+
+## 📄 ATS Resume Analyzer
+
+✔ Resume Parsing
+
+✔ Skill Matching
+
+✔ ATS Score
+
+✔ AI Feedback
+
+Tech
+
+FastAPI
+
+Streamlit
+
+spaCy
+
+Sentence Transformers
+
+Groq
+
+Supabase
+
+---
+
+## 🤖 Multi-Agent AI Workflow
+
+AI Project Manager
+
+AI Coder
+
+AI Tester
+
+Built using LangChain + Ollama + DeepSeek
+
+---
+
+## 📞 Contact Management System
+
+Python + SQLite based CRUD application
+
+---
+
+## 🍽 Recipe Sharing Platform
+
+Responsive website built using
+
+HTML
+
+CSS
+
+JavaScript
+
+---
+
+# 📈 Currently Exploring
+
+✔ Agentic AI
+
+✔ RAG
+
+✔ LLM Fine-tuning
+
+✔ Computer Vision
+
+✔ MLOps
+
+✔ AI Deployment
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn
+
+Portfolio
+
+Email
